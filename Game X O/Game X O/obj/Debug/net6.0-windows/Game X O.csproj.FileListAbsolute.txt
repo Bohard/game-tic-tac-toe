@@ -1,0 +1,17 @@
+C:\Users\Bohdan\source\repos\Game X O\Game X O\bin\Debug\net6.0-windows\Game X O.exe
+C:\Users\Bohdan\source\repos\Game X O\Game X O\bin\Debug\net6.0-windows\Game X O.deps.json
+C:\Users\Bohdan\source\repos\Game X O\Game X O\bin\Debug\net6.0-windows\Game X O.runtimeconfig.json
+C:\Users\Bohdan\source\repos\Game X O\Game X O\bin\Debug\net6.0-windows\Game X O.dll
+C:\Users\Bohdan\source\repos\Game X O\Game X O\bin\Debug\net6.0-windows\Game X O.pdb
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.csproj.AssemblyReference.cache
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game_X_O.Form1.resources
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.csproj.GenerateResource.cache
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.AssemblyInfoInputs.cache
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.AssemblyInfo.cs
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.dll
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\refint\Game X O.dll
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.pdb
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\Game X O.genruntimeconfig.cache
+C:\Users\Bohdan\source\repos\Game X O\Game X O\obj\Debug\net6.0-windows\ref\Game X O.dll
